@@ -5,8 +5,7 @@ Created a Ecommerce Webiste using Frontend Technologies..
 wanna check the project how it works.. 
 
 Here's the website link 🔗:
-frontend-ecom-two.vercel.app 
-
+https://frontend-ecom-two.vercel.app/
 
 
 
